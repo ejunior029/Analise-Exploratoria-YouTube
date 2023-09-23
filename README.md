@@ -10,7 +10,7 @@ Vamos responder algumas perguntas
 
 1- Quais são os canais com mais inscritos?
 
-<img src="https://i.ibb.co/WWKh63H/Categorias-com-mais-inscritos.png">
+<img src="https://i.ibb.co/ZTMqB5z/10-maiores-canais-em-numero-de-inscritos.png">
 
 Na Figura acima, podemos ver a presença de um único canal do ramo da Educação, o **Cocomelon - Nursery Rhymes**, em quarto lugar no número de inscritos. Além disso, aparece em terceiro lugar na lista o famoso **Mr.Beast**, justificando o fato de ser conhecido por **O maior Youtuber do mundo**, já que o **T-Series** (primeiro colocado) é uma empresa indiana de produção cinematográfica e o **Youtube Movies** (segundo colocado) é uma seção do Youtube responsável pela reprodução de filmes.
 
